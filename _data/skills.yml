@@ -1,12 +1,26 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# College Developed
+- skill: Formally Developed
+  description: Data Structures and Algorithms • Programming Techniques (OOP) • Logic Design (I, II) • Database Management • Design and
+Analysis of Algorithms • Microprocessor (I)
 
-# Communications strategy
-- skill: Communications strategy
+# by myself
+- skill: Personally Developed
   description: Content and marketing strategy,
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Programming Languages
+- skill: Programming Languages
+  description: C, C++, Python, Java, SQL, JavaScript, HTML, CSS
+
+# Tools & Technologies
+- skill: Tools & Technologies
+  description: NodeJs, Django, React, Flutter, MongoDB, Postgres, Git, Linux, NumPy, Pandas, Matplotlib, Oracle, scikit-learn
+
+# Industry Knowledge
+- skill: Industry Knowledge
+  description: : Algorithms, Data Structures, OOP, Artificial Intelligence, Machine Learning
+
+# Soft Skills
+- skill: Soft Skills
+  description:  Effective Communication Abilities, Strong Teamwork Competencies, Analytical Problem-Solving Skills, Rapid Learning Capabilities
+
