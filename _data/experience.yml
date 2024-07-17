@@ -1,20 +1,20 @@
 # Jobs
-# VP of Global Communications
+# School and College
 - company:  School and College
   position: Independent Tutor
   duration: July, 2024 &mdash; Present
-  summary: Assisted students in understanding complex concepts, solving problems, and preparing for exams.
-	
-# Director of Digital Stratgy
-- company: Codsoft
-  position: Web Developer Intern
-  duration:  Jul, 2024 &mdash; Aug, 2024
-  summary: <ul class="resume-item-list"><li>Enhanced user engagement with interactive features and optimized performance.</li><li>Collaborated in Agile teams, participated in stand-ups and code reviews.</li><li>Identified and resolved bugs, ensuring project stability and efficiency.</li></ul>
+  summary:  <ul class="resume-item-list"><li>Assisted students in understanding complex concepts, solving problems, and preparing for exams.</li>
 
-# Communications Coordinator
-- company: Earth5R
+# Codsoft
+- company:  Codsoft
+  position: Web Developer Intern
+  duration: Jul, 2024 &mdash; Aug, 2024
+  summary:  <ul class="resume-item-list"><li>Enhanced user engagement with interactive features and optimized performance.</li><li>Collaborated in Agile teams, participated in stand-ups and code reviews.</li><li>Identified and resolved bugs, ensuring project stability and efficiency.</li></ul>
+
+# Earth5R
+- company:  Earth5R
   position: Sustainable AI/ML Research
-  duration:   May, 2024  &mdash; Jun, 2024
-  summary: <ul class="resume-item-list"><li>Analyzed data & researched environmental impact of AI/ML.</li><li>Communicated AI/ML sustainability in Earth5R app posts.</li><li>Enhanced data collection, analysis, & research on sustainable AI/ML</li></ul>
+  duration: May, 2024  &mdash; Jun, 2024
+  summary:  <ul class="resume-item-list"><li>Analyzed data & researched environmental impact of AI/ML.</li><li>Communicated AI/ML sustainability in Earth5R app posts.</li><li>Enhanced data collection, analysis, & research on sustainable AI/ML</li></ul>
 
 
